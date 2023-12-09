@@ -1,0 +1,28 @@
+* {
+    background-color:rgb(252, 174, 174);
+    font-family: helvetica;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+h2{
+    font-weight: lighter;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+div {
+    border-color: black;
+    border-style: solid;
+    width: 200px;
+    text-align: center;
+}
+
+h5 {
+    padding: -1%;
+}
